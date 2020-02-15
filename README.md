@@ -25,5 +25,8 @@ Contains the Jupyter notebook used to interactively train and evaluate a thumbs 
 ### [src](src)
 Standard src scripts and utilities plus a folder structure generator script.
 
+## Usage 
+Use the interactive notebook from the [notebooks](notebooks) folder and train your own model or load one already made from the [models](models) folder and evaluate how effective it is using your camera.
+
 ## License
 [MIT License](https://github.com/socd06/dli_thumbs/blob/master/LICENSE)
